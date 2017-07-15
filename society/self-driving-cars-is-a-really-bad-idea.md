@@ -51,25 +51,47 @@ _* Isn’t it amazing that we call the sidewalk, well, side-walk? The ideologica
 _** It is absolutely crucial that motorized transport through the bike lanes is slow moving; it is what makes the difference between having small, single person transports for those that need it and having a street full of cars. Slow speed would have to be barely above walking speed, much like a golf caddy or an airport in-doors transportation vehicle._
 
 ## Why is it such a popular idea then?
+
 The most obvious reason is that “self-driving cars” is a very buzz worthy three-word phrase; but this reason is not the most interesting one. Let’s focus on realities that are both harder to see and harder to change. 
-4. Cars provide intimacy
+
+### 4. Cars provide intimacy
+
 Having such intimacy is a clearly perceived need in our individual centric worldview. Being exposed to others can be uncomfortable and unnerving, and people cherish the opportunity to have some space that can be protected from the chaos of the street. The irony is that most of the chaos in the street is actually a consequence of the public space being sequestered by cars.
+
 If in order to function without cars we need to give an intimate feel to the open street for comfort, that can be arranged. The metro can be further developed to get a more comfortable space. Passenger cars with private compartments can be added. Urbanists can make use of the free surface that we would have to create gardens, galleries and other protected spaces that feel less exposed. There are many solutions to be found.
-3. Cars remain a huge high-tech industry that provides good income and employment to millions
+
+### 3. Cars remain a huge high-tech industry that provides good income and employment to millions
+
 This arguments is not good, because it falls victim to the sunk cost fallacy; the fact that we invested in cars so far does not mean that we need to keep investing in them. The same jobs and income can come from the industry of the metro, fancy bicycles and other alternative forms of transportation, much like jobs and income provided by the fossil fuels industry can be shifted to green energy.
-2. We remain a hierarchical society where the rich feel entitled to take over the public space
+
+### 2. We remain a hierarchical society where the rich feel entitled to take over the public space
+
 Cars create hierarchy on the common space. The rich(er) are comfortable in their cars that claim the best part of the city. The poor(er) are relegated to be always afraid of losing their lives in the traffic and to walk in the small, cramped sidewalk.
-1. Private capital can’t deal with city-spanning changes or societal reform
+
+### 1. Private capital can’t deal with city-spanning changes or societal reform
+
 Our fascination with this technology is a clear example of the cultural limitations of our current social order, and specifically of the innovation style that has been the norm in the startup ecosystem.
+
 Self-driving cars are backed by venture capital, which can only back and develop products to be put in a market. The logic behind private capital funding and the startup dynamics makes it impossible for them to invest in something that would actually make a difference at the level of the entire city landscape.
+
 This is to some extent a good thing. Private capital should not be the driving force behind city rebuilding, but given that the track record of government institutions in this regard is pretty bad, it is sad to think that the most enthusiastic and energized innovators in society can probably do very little about this.
-Venture capitalists and startup founders are very often spoiled rich kids.
+
+#### Venture capitalists and startup founders are very often spoiled rich kids.
+
 Venture capitalists and startup founders are pretty sold on the idea of trickle-down: all innovation seems to start as an expensive toy for the rich and slowly becomes a commodity for the masses. The smartphone, the personal computer, the microwave oven, the television: a lot of modern wonders have followed this seemingly physical law of economy dynamics. Tesla Motor followed this logic, and it has become closer and closer to achieve its stated purpose of providing commodity electric cars to the masses.
+
 The thing is, optimizing bad ideas is not the same as creating a new tool that will eventually be accessible to everybody. Thinking about how cool it is that some expensive cars drive themselves misses the fact that the benefit goes entirely to the car owner, and provides no value to the rest of society. If anything, it threatens the livelihood of professional drivers (which one can suspect to be the point of the whole thing).
-In conclusion
+
+## In conclusion
+
 Cars are deeply ingrained in the ideological substrate of consumerism.
+
 Cars and consumerist society were born at the same time, out of the same worldview, and fed on each other in a very successful feedback loop. It will be very hard for us to overcome the fascination with cars if we are not ready to overcome the driving forces of consumerism.
+
 In light of that, allow me to repeat myself:
-Cars are weapons.
+
+**Cars are weapons.**
+
 This is one of those self-evident truths that one has to be extremely deep in the ideological pit not to be able to see–yet as a society we are only starting to wake up to this fact. We only started to realize now, because cars are being used as tools for terrorism.
+
 Let’s get these murder weapons out of our streets.

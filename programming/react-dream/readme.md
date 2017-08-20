@@ -1,0 +1,1 @@
+- map + higher-order components https://drive.google.com/open?id=0BzhFoJ-ytmDaNHpBZE5uS0VoX28

@@ -1,13 +1,21 @@
 
-I agree with the point of the article. Suffering is, indeed, inexcusable, and it dominates our experience of life in a way that enjoyment does not compensate. I follow the argumentation to the logical conclusion, and I agree with it; but I have, however, several problems with the implicit premises over which the argument is constructed.
+# Arguments for Natalism
 
-The effort put in the construction of this argument is a way in which it manifests the fact that I consider the reasoning of the article to be sound, and its topic and conclusions significant. I also more or less agree with the outlines of the argument, and I strongly sympathize with the idea that taking personal responsibility in the effort for the minimization of suffering is a moral ideal. I think reflecting on the lines that the article proposes is extremely important and relevant, and just pondering this subjects can lead to improvements on our overall moral behavior. Nonetheless, I believe the article conclusions are wrong, even if they are wrong for the right reasons.
+This is a response to the [Kids? Just say no](https://aeon.co/essays/having-children-is-not-life-affirming-its-immoral) article that advocates for an anti-natalist morality. In a nutshell, it puts in a balance the amount of suffering and the amount of enjoyment that a human being experiences and makes other experience. The balance tips hard in the direction of suffering. This quote from the article illustrates the point really well:
 
-Some aspect of the article that I find particularly valuable is its emphasis in anti-utopianism. That it acknowledges that radical conclusions such as the ones argued by the author can be coopted by utopian ideologies that end up maximizing suffering is a testament to the fact that the author is taking the topic seriously (and is familiar with recent history). Particularly good is, in this sense, that it highlights the value of adoption that stems from an anti-natalist perspective: mitigating suffering where it can be mitigated.
+> If you doubt this, ask yourself – honestly – whether you would accept a minute of the worst tortures in exchange for a minute or two of the greatest delights.
 
-My problems with the premises vary widely in regards to what quality of the argument the refer to, but even coming from different angles, what the have in common is that they are foundational: they all point to the underlying axioms under which the argument sustains itself. Here is a break down by topic:
+Given this state of affairs, the article drives to the conclusion, in a well reasoned way, creating _more_ human life is not moral. This is just a gist of course, the article is well put and easy to read, so I recommend reading it.
 
-## Metaphysical
+I agree with the point of the article. Suffering is, indeed, inexcusable, and it dominates our experience of life in a way that enjoyment does not compensate. I follow the argumentation to the logical conclusion, and I agree with it to the extent that it is a valid conclusion that follows from the premises; but I have, however, several problems with the premises over which the argument is constructed.
+
+I hope that the effort that I put in the construction of this argument is a way in which it manifests the fact that I consider the reasoning of the article to be sound, and its topic and conclusions significant. The arguments that I put forward apply in a wider context even if I construct them here to address anti-natalism in particular, and they are the result of years of pondering and studying argumentations done along the same lines as the one in the article. I more or less agree with the outlines of the argument, and I strongly sympathize with the idea that it is a moral ideal to take personal responsibility in the effort for the minimization of suffering. I think reflecting along the lines that the article proposes is extremely important and relevant, and just pondering this subject can lead to improvements in our overall moral behavior. Nonetheless, I believe the article conclusions are wrong, even if they are wrong for the right reasons.
+
+Some aspect of the article that I find particularly valuable is its emphasis in anti-utopianism. It acknowledges that radical conclusions about the human condition can be coopted by utopian ideologies that end up maximizing suffering. This is a testament to the fact that the author is taking the topic seriously (and that he is familiar with recent history). In this sense, it is particularly good that it highlights the value of adoption. This follows logically from an anti-natalist ethos: whenever the possibility of suffering is present, it should be mitigated.
+
+My problems with the premises cover very different qualities of the argument the refer to, but even though they come from different angles, what the have in common is that they are foundational: they all point to the underlying axioms under which the argument sustains itself. Here is a break down by topic:
+
+## Metaphysical counter argument
 
 > How can we compare existence with non-existence, if in order to do that comparison we need first to exist? It feels to me that this is an argumentation in the vacuum: nothing can be said about the qualities of non-existence, since saying something presupposes existence. There is no such thing as an "experience" of non-existence, which makes it really hard to put qualities to it (in this case, being better than existence, because of the pain that existence brings with it). I feel that this might be the strongest argument against the conclusion, and it resonates with the fact that because only natalists reproduce, anti-natalism is by it's very structure a non-replicant and biologically determined to minority status (which is of course addressed in the article, but only at the sociological level)
 
@@ -31,7 +39,7 @@ This is still not the final metaphysical argument against it: there is also a va
 
 That is: if there is no one around to judge non-existence as positive, then non-existence is no longer positive. This sorts of brings as back to the first metaphysical argument: if non-existence can have properties in the absence of existence, then while it might have those properties, [it would have them vacuously](https://en.wikipedia.org/wiki/Vacuous_truth).
 
-## Moral value system
+## Moral value system counter argument
 
 The article obviously derived its moral principle from utilitarian logic, given that it arguments on the lines of comparing the amount of perceived suffering and perceived enjoyment, taking the first one as axiomatically bad and the second as axiomatically good. This is a good starting point, and utilitarian morality is certainly a powerful tool that has given us a lot of useful insights into ways of working towards the improvement of society.
 
@@ -65,40 +73,54 @@ Biologically speaking too, the feeling of meaning is associated with the idea of
 
 And now we are ready to address the final objection to the article, which is in a way the most powerful from a critical theory perspective, since it aims at the ideological context of the argumentation.
 
-## Romanticism and Rationalism
+## Romantic (or anti-rationalistic) counter argument
 
-Romanticism is, in this context, the belief that rationalism is simply not equipped to reach conclusions about the human experience (or complex animal experience for that matter). At the face of it, it sounds like such as perspective makes it simply impossible to have a discussion of the kind that we are having right now; however, the main insight of romanticism is not that rationality is useless, but rather that rationality as a method for experience analysis (Rationalism) is fundamentally incomplete.
+Romanticism is, in this context, the belief that rationalism is simply not equipped to analyze and react conclusions about the human experience (or complex animal experience in general). At the face of it, it sounds like such a perspective makes it simply impossible to have a discussion of the kind that we are having right now; however, the main insight of romanticism is not that rationality is useless, but rather that rationality as a method for experience analysis (Rationalism) is fundamentally incomplete.
 
-Rationalism is a belief system heavily inspired by the scientific method. After the great success of material science in giving material prosperity to human civilization based on the principles of empiricism and logical thinking, many people had the idea of following the same set of principles and using the same formal framework to analyze human experience in general.
+Rationalism is a belief system heavily inspired by the scientific method. After the great success of material science in giving prosperity to civilization based on the principles of empiricism and logical thinking, many had the idea of following the same set of principles and using the same formal framework to analyze human experience as well.
 
-There is, however, a well known problem with this: the scientific method is concerned with objects deprived of intrinsic value, not because Science as an edifice posits that objects lack intrinsic value, but rather because it resulted rather effective to treat them that way when analyzing their behavior—inanimated objects, at the very least. But this postulate, namely:
+There is, however, a well known problem with this: the scientific method is concerned with objects deprived of intrinsic value. This is not because Science as an edifice posits that objects _lack_ intrinsic value, but rather because it resulted rather effective to _treat them_ that way. To the ends of understanding certain properties of the universe, thinking about it as a collection of value-free objects gave good results, and that made it stick. But you can see that this postulate, namely:
 
 > Objects lack intrinsic value
 
-…is not a logical conclusion that scientific analysis derived from observing the world. Quite the opposite: it is the **axiom** set at the base of the scientific method. And axioms are just arbitrary rules in a formal system. They say nothing about the underlying structure of the universe.
+…is not a logical conclusion that scientific analysis derived from observing the world. Quite the opposite: it is the **axiom** that sits at the base of the scientific method. And axioms are just arbitrary rules in a formal system. They say nothing about the underlying structure of the universe.
 
-By necessity, a system of thought founded on the premise that reality is composed of objects with equivalent value applied to analysis of the human experience will jump straight into nihilism. But, and this is the core point here:
+Let me stress this, because it is usually missed by people:
 
-> Nihilism, or the absence of inherent meaning in reality, is not a _conclusion_ of rationalism; it is it's foundational axiom.
+> The fact that science is partially successful at predicting the behavior of the world working under the assumption that the reality is composed of objects that lack intrinsic value says _nothing_ about the underlying structure of reality.
 
-You can see how then any argumentation line that starts of purely rationalistic premises and reaches nihilistic conclusions can be fairly regarded with suspicion. Is this careful crafted step by step logical derivation of theorems that lead to a true judgement applicable to the universe at large? The fact that the argument is internally consistent with it's axiomatical framework only means that it is well formed: if the axioms upon which it lies are not connected with reality, there is no useful information embedded in it.
+This does not mean that the knowledge generated by science is not useful, or that science itself it not worth pursuing: it just gives a context for it. While science is good at something, that something is what it was optimized for, not the all: and furthermore, thinking that science is by necessity good at everything is deeply unscientific.
 
-I’ll jump right ahead and point out that I’m not saying this invalidates the argument, because saying so will also imply that nothing at all can be said about the human experience, which is not a position I subscribe to. Some people do in fact say that nothing at all can be said about human experience, and they either didn’t think long enough before speaking or are unfazed by paradoxes.
+This is important, because by logical necessity, a system of thought founded on the premise that reality is composed of objects with equivalent value, when used to analyze the human experience, will jump straight into nihilism. This is the core point here:
 
+> Nihilism, or the absence of inherent meaning in reality, is not a _conclusion_ of rationalism; it is its foundational axiom.
 
-So what do I want to say? In a nugget, that all axiomatizations of the human experience that we know of light up different aspects of it and can probably help out in building a sufficiently useful description with which to communicate, but they certainly do not exhaust the possibilities of that experience, and more certainly so, no single axiomatization can possibly cover it.
+You can see how then any argumentation line that starts of purely rationalistic premises and reaches nihilistic conclusions can be fairly regarded with suspicion. Is this careful crafted step by step logical derivation of theorems that lead to a true judgement applicable to the universe at large? The fact that the argument is internally consistent with its axiomatical framework only means that it is well formed: if the axioms upon which it lies are not connected with reality, there is no useful information embedded in it.
+
+I’ll jump right ahead and point out that I’m not saying this invalidates the argument, because saying so will also imply that nothing at all can be said about the human experience, which is not a position I subscribe to. Some people do in fact say that nothing at all can be said about human experience, and they either didn’t think long enough before speaking or they are unfazed by paradoxes.
+
+So what do I want to say? In a nutshell, that all axiomatizations of the human experience that we know of light up different aspects of it and can probably help out in building a sufficiently useful description with which to communicate, but they do not exhaust the possibilities of that experience. And even more certainly, no single axiomatization can possibly describe it.
 
 ## Conclusion
 
-The flaws in the argument do not automatically make it invalid; even within a wider framework for morality, being a truly moral person requires a deep understanding of nihilism in all its expressions, and why it is such a prevalent way of describing the world. I would be disappointed if I give the impression that I plan of discarding the argument with a slight of the hand, not taking it seriously, or if it seems that my counter arguments mean its train of argumentation is not worth pursuing. The opposite is the truth.
+The flaws in the argument do not automatically make it invalid; even within a wider framework for morality, being a truly moral person requires a deep understanding of nihilism in all of its expressions. Being moral requires understanding nihilism is such a prevalent way of describing the world. I would be disappointed if this text gives the impression that I’m discarding the anti-natalist argument with a slight of the hand, not taking it seriously, or if it seems that my counter arguments mean its train of argumentation is not worth pursuing. The opposite is the truth.
 
-I do believe, however, that there are rational, scientific paths to overcoming it, while retaining some of its core insights. Those paths are rooted in redirecting the axis of utilitarianism from enjoyment-suffering to meaning-meaninglessness, in acknowledging the fact that wishing for non-existence is not viable from a biological or even ontological perspective and that the idea of meaninglessness is not a necessary conclusion, but rather more like a collective illusion given to us as a sort of price for material dominion.
+I do believe, however, that there are rational, scientific paths to overcoming it, while retaining some of its core insights. Those paths are rooted in:
 
-It seems to me that in way or the other, we are stuck with being. If that is the only option, we might as well find ways to do good within the boundaries of it. Having children is our embodied expression of the belief that, even if we fail to find a way to make reality a paradise, they still have a chance to find it. Humanity is a common project that did not start with you and me and will not end with you and me, so it is productive to think that wider frame, especially when evaluating existence.
+- Redirecting the axis of utilitarianism from enjoyment-suffering to meaning-meaninglessness (Value system shift)
+- Acknowledging the fact that wishing for non-existence is not viable from a biological or even ontological perspective (Anthropic principle)
+- Recognizing that meaninglessness is not a necessary conclusion of rational discourse, but rather more like a collective illusion that we received as a sort of price for material dominion (Romanticism)
+
+It seems to me that in way or the other, we are stuck with being. Non-being is not somewhere we can go.
+
+If being is the only option, we might as well find ways to do good within the its boundaries. Having children is our embodied expression of the belief that, even if we fail to find a way to make reality a paradise, they still have a chance to find it. Our moral imperative in that framework is to try as humanly possible that to give them the tools to achieve meaning and enjoyment, and to hope that they get to do it to a greater extent than we did.
+
+Humanity is a common project that did not start with you and me and will not end with you and me, so it is productive to think that wider frame, especially when evaluating existence.
 
 ---
 
-Extra content: a couple of notes I have about the article that do not fit within the structure of the main thing:
+## Extra content
+A couple of notes about the article that do not fit within the main body of the argumentation above:
 
 ### Death
 

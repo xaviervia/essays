@@ -19,7 +19,7 @@ Given the importance of the decision of having children, this is not my first en
 
 One aspect of the article that I find particularly valuable is its emphasis in anti-utopianism. The writer acknowledges that radical conclusions about the human condition can be coopted by utopian ideologies that end up maximizing suffering, which runs directly counter to the proposed morality. This is a testament to the fact that the author is taking the topic seriously (and that he is familiar with recent history). In this sense, it is particularly good that it highlights the value of adoption. This follows logically from an anti-natalist ethos: whenever the possibility of suffering is present, it should be mitigated.
 
-My counter arguments are not a matter of content: rather, they are foundational. My problems with the premises cover very different qualities of the argument; but even though the counter argument go the attack from different angles, what the have in common is that they are foundational. They all take aim at the underlying axioms under which the argument sustains itself.
+My counter arguments are not a matter of content: rather, they are foundational. My problems with the premises cover very different qualities of the argument; but even though the counter arguments go to the attack from different angles, they have in common the fact that they are foundational. They all take aim at the underlying axioms under which the argument sustains itself.
 
 Broken down by topic, they are:
 
@@ -31,40 +31,40 @@ Let's start:
 
 ## Metaphysical counter argument
 
-The word "metaphysical" is sometimes connected with superstition, but I’m referring here to metaphysics in the Aristotelian understanding of the word: that, as the careful reflection about the nature of Being. This is also called "ontology", as the study of Being proper.
+The word "metaphysical" is sometimes connected with superstition, but I’m referring here to metaphysics in the classic philosophy understanding of the word: that, as the careful reflection about the nature of Being. This is also called "ontology", as the study of Being proper.
 
-This one is, in a way the strongest argument, since it aims at the bottom, the core assumption in the article, which is that non-existence can, and in certain cases is, better than existence (so the article goes).
+This argument aims at the bottom, the core assumption of the article, which is that non-existence can be, and in certain cases is, _better than existence_ (so the article goes).
 
 To see how a metaphysical counter argument can be constructed, let’s phrase out this core tenant of the article in a way that we can easily reason about:
 
 > Non existence has the property of being better than existence
 
-The problem is that non-existence, logically speaking, is a really bad starting point. Under propositional logic, any judgment can be deduced from a false premise. You can say that non-existence has a property, and that this property is that it is better than existence: and this is technically true, but it is true in the same sense that saying "all the people that live right now in Mars are blue" is true: it is a vacuous truth in logic which is technically right because anything can be stated about non existing members of an empty set. Phrased in another way: it is meaningless to assign predicates to non-existence. The idea that non-existence can be _better_ than existence fails at this propositional logic level.
+The problem is that non-existence, logically speaking, is a really bad starting point. Under propositional logic, any judgment can be deduced from a false premise. You can say that non-existence has a property, and that this property is that it is "better than existence": and this is technically true, but it is true in the same sense that saying "all the people that live right now in Mars are blue" is true: it is a vacuous truth. It is technically right because anything can be stated about (by definition non-existing) members of an empty set.
+
+Phrased in another way: it is meaningless to assign predicates to non-existence. The idea that non-existence can be _better_ than existence fails at this propositional logic level.
 
 I am aware that there are other, less mainstream formulations of logic that do not have the [principle of explosion](https://en.wikipedia.org/wiki/Principle_of_explosion), such as the various forms of paraconsistent logic. This could potentially circumvent the stronger form of my argument; but the metaphysical flaws of the line of thinking proposed in the article are not exhausted.
 
-When it comes to mathematical truths and their relationship with reality, there are usually to camps:
+When it comes to mathematical truths and their relationship with reality, there are usually two camps:
 
 - Formalists consider that logical propositions are just rules for string manipulation
 - Platonists (applied to mathematics, not in general) consider that mathematical objects are real entities in the physical universe
 
 The argument that follows only works if you consider the formalist standpoint, but it is nonetheless worth pursuing, since the consequences of mathematical platonism are vast and may introduce a different set of questions.
 
-According to mathematical formalism, reasoning, even abstract, mathematical reasoning, is something that does not exist in nature unless it is _acted out_. In order for a logic statement to the true, it needs to be evaluated, so that it's truth value might be revealed. This is a simplification, but in a nutshell what this means is that logic predicates are not automatically real things in a universe without thinkers: they require processes capable of formulating and operating them to be real, as real as they can be while embedded in that process.
+According to mathematical formalism, reasoning (even abstract, mathematical reasoning) is something that does not exist in nature unless it is _acted out_. In order for a logical statement to the true, it needs to be evaluated, so that it's truth value might be revealed. This is a simplification, but what this means is that logical predicates are not automatically real things in a universe without thinkers: they require processes capable of formulating and operating them to be real, as real as they can be while embedded in that process.
 
-And this leads to a problem: if we annihilate existence because we think non-existence is better, who is there to think that existence is bad?
+And this leads to a problem: if we annihilate existence because we think non-existence is better, _who is there to think that existence is bad?_
 
-This is of course just a flavor or variation of the anthropic principle. I can imagine putting it like this:
+This is of course just a flavor of the anthropic principle. I can imagine putting it like this:
 
 > In order for non-existence to be judged as better than existence, there has to be a scale of better and worse which are properties of the world in which an existing thinker is immersed
 
 That is: if there is no one around to judge non-existence as positive, then non-existence is no longer positive.
 
-How can we compare existence with non-existence, if in order to do that comparison we need first to exist? It seems to me that, as conscious thinkers operating within a value system, nothing we can formulate as qualities of non-existence can be truthful, since our experience where our values emerge is automatically existent as a prerequisite. As mentioned before, stating properties of something either posits its existence or leads to vacuous truths.
+How can we compare existence with non-existence, if in order to do that comparison we need first to exist? It seems to me that, as conscious thinkers operating within a value system, nothing we can formulate as qualities of non-existence can be used as a premise for a useful argument, since our experience, where our values emerge from, is automatically _existent_ as a prerequisite. As mentioned before, stating properties of something either posits its existence or leads to vacuous truths.
 
-There is no such thing as an "experience" of non-existence, which makes it really hard to put qualities to it (in this case, being better than existence, because of the pain that existence brings with it).
-
-This of course resonates with the fact that because only natalists reproduce, anti-natalism is by it's very structure a non-replicant and biologically determined to minority status (which is of course addressed in the article, but only at the sociological level).
+This resonates with the fact that because only natalists reproduce, anti-natalism is by it's very structure a non-replicant and biologically determined to minority status (which is of course addressed in the article, but only at the sociological level).
 
 ## Moral value system counter argument
 
@@ -80,7 +80,7 @@ It is still worth pointing out, however, than the article draws a pretty damning
 
 I do not want to go too deep regarding alternative moral value systems: but I want at least to mention the fact that this simple utilitarian formula is probably wrong from a scientific perspective. I can expand on this in two ways:
 
-- Suffering is not properly defined from a scientific perspective. Any self respecting utilitarian morality needs to acknowledge this fact, since the core of the utilitarian ethos is empiricism. The quality of suffering is certainly colored in our real experience of it by an innumerable amount of factors, and the fact that all of us have biological drives that makes us crave for controlled dosis of suffering makes it questionable the assumption that the _complete_ eradication of suffering is the right moral choice, even within pure utilitarianism.
+- Suffering by itself is a provable fact, but all the nuances of suffering are not properly defined from a scientific perspective. Any self respecting utilitarian morality needs to acknowledge this fact, since the core of the utilitarian ethos is empiricism. The quality of suffering is certainly colored in our real experience of it by an innumerable amount of factors, and the fact that all of us have biological drives that makes us crave for controlled dosis of suffering makes it questionable the assumption that the _complete_ eradication of suffering is the right moral choice, even within pure utilitarianism.
 
 - The array of experiences that a human has can provide alternative axis of morality; rather than the enjoyment-suffering one, we can propose to use the meaningfulness-meaninglessness one. The [experience of positive meaning](https://en.wikipedia.org/wiki/Flow_(psychology)) is not a wishy-washy new age non sense either: it is an active area of research within experimental psychology. We can easily see how some experiences that produce suffering might at the same time also produce the feeling of meaning: for example, succeeding at an extremely hard task. The idea that the point of life is just to get the dopamine kick that comes with the positive resolution of the task ignores the fact that a dopamine kick "in the vacuum" does not have the same neurological effect that one produced during _flow_ does. Neural wiring occurs a result of a creative process and when carrying a hard task to completion that is completely different from the one that occurs when taking dosis of heroin.
 
@@ -110,14 +110,11 @@ Meaning on the other hand can give suffering a context in which it does not elim
 
 And now we are ready to address the final objection to the article, the most powerful from a critical theory perspective, since it aims at the ideological context of the argumentation.
 
-> While reflecting on this argument, I realized that it can also be considered the most powerful one, since it reveals that the article undermines itself in its claim that suffering is the concern. Then something similar happened when I was thinking about the next one, the romantic one: it seemed to be the best one of them all, for different reasons. And when I went back to the first, it certainly looked like the best, since it was based on logic and all. They all seem to be "the most powerful argument" agains the anti-natalist morality. But this cannot be so.
-> But in a way, they are all the most powerful argument: this is simply a manifestation of the fact that they are all foundational, just coming from different conceptual frameworks.
-
 ## Romantic (or anti-rationalistic) counter argument
 
-Romanticism is, in this context, the belief that rationalism is simply not equipped to analyze and reach conclusions about the human experience (or complex animal experience in general). In the face of it, it sounds like such a perspective makes it simply impossible to have a discussion of the kind that we are having right now, since we are using reason to analyze experience; however, the main insight of romanticism is not that rationality is useless, but rather that rationality as a method for experience analysis (_rationalism_) is fundamentally _incomplete_.
+Romanticism is, in this context, the belief that rationalism is simply not equipped to fully analyze and reach final conclusions about the human experience (or complex animal experience in general). In the face of it, it sounds like such a perspective makes it simply impossible to have a discussion of the kind that we are having right now, since we are using reason to analyze experience; however, the main insight of romanticism is not that rationality is useless, but rather that rationality as a method for experience analysis and moral development (_rationalism_) is fundamentally _incomplete_.
 
-Rationalism is a belief system heavily influenced by the scientific method (but a belief system nonetheless!). After the great success of material science in giving prosperity to civilization based on the principles of empiricism and logical thinking, many had the idea analyzing human experience in the same way as we analyze the physical world.
+Rationalism is a belief system heavily influenced by the scientific method (but a belief system nonetheless!). After the great success of material science in giving prosperity to civilization based on the principles of empiricism and logical thinking, many had the idea of analyzing the human experience in the same way that we analyze the physical world.
 
 There is, however, a well known problem with this: the scientific method is concerned with objects deprived of intrinsic value. This is not because science as an edifice posits that objects _lack_ intrinsic value, but rather because it turned out to be quite effective to _treat them_ that way. To the ends of understanding certain properties of the universe, thinking about it as a collection of value-free objects gave good results, and that made it stick. But you can see that this postulate, namely:
 
@@ -129,7 +126,7 @@ Let me stress this, because it is usually missed by people:
 
 > The fact that science is partially successful at predicting the behavior of the world working under the assumption that the reality is composed of objects that lack intrinsic value says _nothing_ about the underlying structure of reality.
 
-This does not mean that the knowledge generated by science is not useful, or that science itself it not worth pursuing. This is just contextual information: science has its limits, and they are demarcated by its very foundations. Science is really good at studying the physical world; but that is what science was optimized to do. Science is not good at everything, because its presuppositions preclude entire categories of knowledge for the sake of method (which is an excellent reason, but again, a limitation). And even more remarkably, it turns out that having the conviction that science is by necessity _good at everything is deeply unscientific_, since it is not a verifiable hypothesis.
+This does not mean that the knowledge generated by science is not useful, or that science itself it not worth pursuing. This is just contextual information: science has its limits, and they are demarcated by its very foundations. Science is really good at studying the physical world; but that is what science was optimized to do. Science is not good at everything, because its presuppositions preclude entire categories of knowledge for the sake of method (which is an excellent reason, but again, a limitation). And even more remarkably, it turns out that having the conviction that science is by necessity good at everything _is deeply unscientific_, since it is not a verifiable hypothesis.
 
 This is important, because by logical necessity, a system of thought founded on the premise that reality is composed of objects with equivalent value will, when used to analyze the human experience, jump straight into nihilism. This is the core point here:
 
@@ -139,7 +136,13 @@ You can see how then any argumentation line that starts out of purely rationalis
 
 I’ll jump right ahead and point out that I’m not saying this invalidates the argument; among other things, because saying so will also imply that nothing at all can be said about the human experience, which is not a position I subscribe to. Some people do in fact say that nothing at all can be _said_ about human experience, and they either didn’t think long enough before speaking or they are unfazed by paradoxes.
 
-So what do I want to say? In a nutshell, that all axiomatizations of the human experience that we know of focus on different aspects of it and can probably help out in building a sufficiently useful description with which to communicate, but cannot possibly exhaust the possibilities of that experience. And we can confident when saying that there is no chance that a single axiomatization can possibly describe human experience.
+So what do I want to say? In a nutshell, that all axiomatizations of the human experience that we know of focus on different aspects of it and can probably help out in building a sufficiently useful description with which to communicate, but cannot possibly exhaust the possibilities of that experience. And we can be confident when saying that there is no chance that a single axiomatization can possibly describe all of it.
+
+### Embodied cognition
+
+There is another problem with relying on rational analysis for this type of argument: not all thought is done via abstract thinking. Emotions can be seen as algorithms that evaluate conditions and output a reaction. On the intermediate level between reflexes and high cognition, there are all kinds of systems of thinking that are rational but operate outside the direct oversight of our higher cognition functions. As Nietzsche put it “There is more wisdom in your body than in your deepest philosophy.”.
+
+There is an argument to be have about the fact that the embodied cognition, the emotions, that make us feel that having children (or life in general) are good things is _also a rational analysis_, just not directly accessible to our linguistic functions. By itself, this does not contradict the conclusion; but combined with the fact that we know that rationalistic analysis has a bias towards nihilism, it adds weight to the idea that we might not want to take a conclusion about morality derived from rationalistic analysis at face value.
 
 ## Conclusion
 
@@ -151,7 +154,7 @@ I do believe, however, that there are rational, scientific paths to overcoming i
 - Acknowledging the fact that wishing for non-existence is not viable from a biological or even ontological perspective (Anthropic principle)
 - Recognizing that meaninglessness is not a necessary conclusion of rational discourse, but rather more like a collective illusion that we received as a sort of price for material prowess (Romanticism)
 
-It seems to me that in way or the other, we are stuck with being. Non-being is not somewhere we can go.
+It seems to me that in one way or the other, we are stuck with being. Non-being is not somewhere we can go.
 
 If being is the only option, we might as well find ways to do good within the its boundaries. Having children is our embodied expression of the belief that, even if we fail to find a way to make reality a paradise, they still have a chance to find it. Our moral imperative in that framework is to try as humanly possible to give them the tools to achieve meaning and enjoyment, and to hope that they get to do it to a greater extent than we did.
 
